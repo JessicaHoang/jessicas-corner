@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jessicas-corner/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/jessicas-corner/static/js/main.a51579d4.chunk.js",
+    "main.js.map": "/jessicas-corner/static/js/main.a51579d4.chunk.js.map",
+    "runtime-main.js": "/jessicas-corner/static/js/runtime-main.e672b8cc.js",
+    "runtime-main.js.map": "/jessicas-corner/static/js/runtime-main.e672b8cc.js.map",
+    "static/js/2.c0b5fd0b.chunk.js": "/jessicas-corner/static/js/2.c0b5fd0b.chunk.js",
+    "static/js/2.c0b5fd0b.chunk.js.map": "/jessicas-corner/static/js/2.c0b5fd0b.chunk.js.map",
+    "static/js/3.fb9f80db.chunk.js": "/jessicas-corner/static/js/3.fb9f80db.chunk.js",
+    "static/js/3.fb9f80db.chunk.js.map": "/jessicas-corner/static/js/3.fb9f80db.chunk.js.map",
+    "index.html": "/jessicas-corner/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/jessicas-corner/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c0b5fd0b.chunk.js.LICENSE.txt": "/jessicas-corner/static/js/2.c0b5fd0b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jessicas-corner/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e672b8cc.js",
+    "static/js/2.c0b5fd0b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a51579d4.chunk.js"
+  ]
+}
